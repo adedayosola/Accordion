@@ -4,7 +4,7 @@ import SingleQuestion from './Question';
 function App() {
 
   const [questions, setQuestions] = useState(data)
-  // console.log(data)
+  
   return (
     <main>
       <div className="container">
